@@ -9,19 +9,4 @@ gcc sniffer.c -o sniffer
 # Running
 To run, you must have root privlages:
 
-
-Unix: ./sniffer
-
-Ubuntu(and some other OS's):
-
-
-sudo su
-
-
-*password*
-
-
-./sniffer
-
-
-Its that Easy, Enjoy!!!
+`./sniffer`
