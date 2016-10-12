@@ -2,8 +2,8 @@
 
 
 Ethernet Header
-   |-Destination Address : 1C-65-9D-6F-33-** 
-   |-Source Address      : 44-94-FC-00-EB-** 
+   |-Destination Address : 1C-65-9D-6F-**-** 
+   |-Source Address      : 44-94-FC-00-**-** 
    |-Protocol            : 8 
 
 IP Header
@@ -15,7 +15,7 @@ IP Header
    |-TTL      : 49
    |-Protocol : 6
    |-Checksum : 3953
-   |-Source IP        : 107.23.245.169
+   |-Source IP        : ***.**.***.***
    |-Destination IP   : 192.168.254.45
 
 TCP Header
